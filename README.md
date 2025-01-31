@@ -1,2 +1,2 @@
 # Amazon.github
-This is a amazon clone.
+This is a amazon clone..
